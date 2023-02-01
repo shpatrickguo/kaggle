@@ -1,0 +1,10 @@
+# kaggleplayground
+The Kaggle Playground series is a collection of interactive machine learning tutorials in which participants are invited to build models on a provided data set. This repository contains my approach to each exercise.
+
+
+## [Playground S3E5](https://www.kaggle.com/competitions/playground-series-s3e5)
+
+Predict the quality of wine using the given data. The dataset for this competition (both train and test) was generated from a deep learning model trained on the [Wine Quality dataset](https://www.kaggle.com/datasets/yasserh/wine-quality-dataset).
+
+## [Playground S3E4](https://www.kaggle.com/competitions/playground-series-s3e4)
+
