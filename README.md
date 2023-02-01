@@ -8,3 +8,4 @@ Predict the quality of wine using the given data. The dataset for this competiti
 
 ## [Playground S3E4](https://www.kaggle.com/competitions/playground-series-s3e4)
 
+Predict the probability for the target Class for each id in the test set using synthetic data from the [Credit Card Fraud Detection dataset](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud).
