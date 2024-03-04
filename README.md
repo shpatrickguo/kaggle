@@ -9,3 +9,7 @@ Predict the quality of wine using the given data. The dataset for this competiti
 ## [Playground S3E4](https://www.kaggle.com/competitions/playground-series-s3e4)
 
 Predict the probability for the target Class for each id in the test set using synthetic data from the [Credit Card Fraud Detection dataset](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud).
+
+## [Playground S4E3](https://www.kaggle.com/competitions/playground-series-s4e3)
+
+Predict the probability of various defects on steel plate. The dataset for this competition (both train and test) was generated from a deep learning model trained on the [Steel Plates Faults dataset](https://archive.ics.uci.edu/dataset/198/steel+plates+faults) from UCI.
