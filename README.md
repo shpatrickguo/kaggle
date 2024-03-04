@@ -1,6 +1,5 @@
 # kaggleplayground
-The Kaggle Playground series is a collection of interactive machine learning tutorials in which participants are invited to build models on a provided data set. This repository contains my approach to each exercise.
-
+The Kaggle Playground series is a collection of interactive machine learning tutorials in which participants are invited to build models on a provided dataset.
 
 ## [Playground S3E5](https://www.kaggle.com/competitions/playground-series-s3e5)
 
