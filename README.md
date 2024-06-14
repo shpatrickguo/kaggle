@@ -7,7 +7,7 @@ Predict the categorical academic risk assessment for each student using data fro
 
 ## [Playground S4E3](https://www.kaggle.com/competitions/playground-series-s4e3)
 
-Predict the probability of various defects on steel plate. The dataset for this competition (both train and test) was generated from a deep learning model trained on the [Steel Plates Faults dataset](https://archive.ics.uci.edu/dataset/198/steel+plates+faults) from UCI.
+Predict the probability of various defects on steel plate. The dataset for this competition (both train and test) was generated from a deep learning model trained on the [Steel Plates Faults dataset](https://archive.ics.uci.edu/dataset/198/steel+plates+faults).
 
 ## [Playground S3E5](https://www.kaggle.com/competitions/playground-series-s3e5)
 
