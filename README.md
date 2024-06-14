@@ -1,6 +1,10 @@
 # kaggleplayground
 The Kaggle Playground series is a collection of interactive machine learning tutorials in which participants are invited to build models on a provided dataset.
 
+## [Playground S4E6](https://www.kaggle.com/competitions/playground-series-s4e6)
+
+Predict the categorical academic risk assessment for each student using data from the [Predict Students' Dropout and Academic Success dataset](https://archive.ics.uci.edu/dataset/697/predict+students+dropout+and+academic+success).
+
 ## [Playground S4E3](https://www.kaggle.com/competitions/playground-series-s4e3)
 
 Predict the probability of various defects on steel plate. The dataset for this competition (both train and test) was generated from a deep learning model trained on the [Steel Plates Faults dataset](https://archive.ics.uci.edu/dataset/198/steel+plates+faults) from UCI.
