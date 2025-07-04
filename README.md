@@ -1,3 +1,4 @@
+![image](https://github.com/user-attachments/assets/02e28f02-3871-40d5-a342-84417a9596d7)
 # kaggleplayground
 The Kaggle Playground series is a collection of interactive machine learning projects hosted by Kaggle.
 
