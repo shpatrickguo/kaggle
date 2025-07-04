@@ -1,5 +1,8 @@
 # kaggleplayground
-The Kaggle Playground series is a collection of interactive machine learning projects hosted by Kaggle..
+The Kaggle Playground series is a collection of interactive machine learning projects hosted by Kaggle.
+
+## [Playground S5E7](https://www.kaggle.com/competitions/playground-series-s5e7)
+Predict the Introverts from the Extroverts using the [Introverts vs Extroverts dataset](https://www.kaggle.com/datasets/rakeshkapilavai/extrovert-vs-introvert-behavior-data/data).
 
 ## [Playground S4E6](https://www.kaggle.com/competitions/playground-series-s4e6)
 
